@@ -1,12 +1,14 @@
-# Qr Scan Reader Application
+# PDF Viewer App
 
-Qr scan reader is a simple app to scan any qr code 
+PDFView An object that encapsulates the functionality of PDF Kit into a single widget that you can add to your application using Interface Builder.
 
-# Tools
+In this project An example for creating PDF Viewer with all options such as go to page and save last page that read at the book.
 
-- ConstraintLayout
-- QRCodeReaderView
-- AlertDialog
+# Project Content
+
+- View Controller contains Search and PDF Viewer.
+- Store last page that read using UserDefaults.
+- Work with Notifications Center to notify the current page.
 
 # Author
 
