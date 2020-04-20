@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
         }, 3000);
     }
 
+
     private void initUI() {
         pdfView = findViewById(R.id.pdfView);
         bookmarkImageView = findViewById(R.id.imageView_bookmark);
