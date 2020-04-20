@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PDF Book</string>
+    <string name="image">image</string>
+    <string name="error_message">Something went wrong in book loading, please restart the application.</string>
+    <string name="go_to_page">اذهب الي صفحة</string>
+    <string name="page_error">هذه الصفحة غير موجودة</string>
+</resources>
